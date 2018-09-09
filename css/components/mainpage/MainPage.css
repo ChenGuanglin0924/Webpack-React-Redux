@@ -1,0 +1,7 @@
+.main-page {
+    position: absolute;
+    width: 100%;
+    height: calc(100% - 75px);
+    top: 0;
+    box-sizing: border-box;
+}
